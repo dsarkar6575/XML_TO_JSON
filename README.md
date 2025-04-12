@@ -16,7 +16,6 @@ This project is a Java-based utility that converts an XML input file into a stru
 
 xml-to-json-converter/
 ├── pom.xml
-
 └── src
     └── main
         ├── java
