@@ -27,6 +27,5 @@ This project uses the following libraries:
 - `slf4j-api`
 - `slf4j-simple` 
 
-> Add them in your `pom.xml` if using Maven.
 
 
