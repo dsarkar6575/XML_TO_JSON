@@ -12,20 +12,6 @@ This project is a Java-based utility that converts an XML input file into a stru
 
 ---
 
-## Project Structure
-
-xml-to-json-converter/
-├── pom.xml
-└── src
-    └── main
-        ├── java
-        │   └── com
-        │       └── example
-        │           ├── Main.java
-        │           └── XmlToJsonConverter.java
-        └── resources
-            └── input.xml
-
 
 ### 🛠 Requirements
 
